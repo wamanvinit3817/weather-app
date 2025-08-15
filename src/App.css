@@ -1,0 +1,9 @@
+body{
+ 
+  /* background: linear-gradient(135deg, #d0e8f2, #f0faff); */
+   /* background: linear-gradient(to bottom, #a1c4fd, #c2e9fb); */
+     /* background: linear-gradient(to bottom right, #d7e1ec, #f3f6f9); */
+     background: linear-gradient(to bottom, #89f7fe, #66a6ff);
+      background-repeat: no-repeat;
+  background-attachment: fixed;
+}

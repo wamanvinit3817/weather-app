@@ -1,0 +1,32 @@
+.Searchbox{
+    display: flex;
+  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    
+}
+.inputel{
+    text-align: center;
+}
+.wp{
+    font-size: x-large;
+}
+text-field{
+     box-shadow: 0 0 15px rgba(0, 123, 255, 0.6), 
+              0 0 30px rgba(0, 123, 255, 0.3);
+}
+#wimg {
+    vertical-align: middle;
+    height: 3.5rem;
+    width: 3.5rem;
+    display: inline;
+}
+#btn{
+    background: linear-gradient(135deg, #f83600, #f9d423);
+color: white;
+box-shadow: 0 4px 15px rgba(248, 54, 0, 0.4);
+}

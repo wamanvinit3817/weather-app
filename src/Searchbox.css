@@ -24,8 +24,8 @@ text-field{
     height: 3.5rem;
     width: 3.5rem;
     display: inline;
-    border-radius: 2rem;
-     box-shadow: 0 4px 15px rgba(0, 0, 139, 0.5);
+    /* border-radius: 2rem;
+     box-shadow: 0 4px 15px rgba(0, 0, 139, 0.5); */
 }
 #btn{
     background: linear-gradient(135deg, #f83600, #f9d423);

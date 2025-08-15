@@ -37,7 +37,7 @@ export default function Searchbox(){
 
         <div className="Searchbox">
             <div className="inputel">
-        <p className='wp'> <img src="/weather.png" id='wimg'></img> Search for Weather:</p>
+        <p className='wp'> <img src="https://images.unsplash.com/photo-1705077296278-d82dd5c8662f?q=80&w=809&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" id='wimg'></img> Search for Weather:</p>
         <form onSubmit={apiCall}>
             <TextField id="city" label="Enter City Name" variant="outlined" required value={city} onChange={handleChange} sx={{borderRadius: "8px",backgroundColor: "#f0f8ff"}}/>
             <br></br>
